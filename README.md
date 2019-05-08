@@ -9,4 +9,4 @@ MoviePy version is 1.0.0 https://zulko.github.io/moviepy/
 
 Article published also on medium.com
 
-PLEASE NOTE! The AVI-files created are 500+Mb so no room for them in github :-(
+PLEASE NOTE! The sizes of AVI-files created are 500+Mbs so no room for them here in github :-(
